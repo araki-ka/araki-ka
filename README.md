@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <p align="left">
-  <a href="https://twitter.com/kazuya_araki_jp" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alr="kazuya_araki_jp" />
-  <a href="https://www.linkedin.com/in/kazuya-araki-65680111a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kazuya-araki-65680111a" />
+  <a href="https://twitter.com/kazuya_araki_jp" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alr="kazuya_araki_jp" /></a>
+  <a href="https://www.linkedin.com/in/kazuya-araki-65680111a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kazuya-araki-65680111a" /></a>
 </p>
 
 #### About me
 
 - 🔭 I’m a Data Analyst and Data Engineer in Japan.
 - 🌱 I’m currently learning Mathematics, Data Visualization, and Visual Analytics.
-- 💬 You can get in touch with me by [Twitter(@kazuya_araki_jp)](https://twitter.com/kazuya_araki_jp), and [Linkedin](https://www.linkedin.com/in/kazuya-araki-65680111a/).
+- 💬 You can get in touch with me by [Twitter](https://twitter.com/kazuya_araki_jp), and [Linkedin](https://www.linkedin.com/in/kazuya-araki-65680111a/).
 
 #### Stats
 
