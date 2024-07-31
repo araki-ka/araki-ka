@@ -8,7 +8,6 @@
 [![kazuya_araki](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=Zenn&logoColor=white)](https://zenn.dev/kazuya_araki)
 [![kazuya_araki_tokyo](https://img.shields.io/badge/Speaker%20Deck-009287.svg?style=for-the-badge&logo=Speaker-Deck&logoColor=white)](https://speakerdeck.com/kazuya_araki_tokyo)
 [![@kazuya.araki](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kazuya.araki)
-[![@zakiyamakaoru](https://img.shields.io/badge/steemit-04D6A7?style=for-the-badge&logo=steemit&logoColor=white)](https://steemit.com/@zakiyamakaoru)
 [![jedi_trickstar](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jedi_trickstar)
 
 
